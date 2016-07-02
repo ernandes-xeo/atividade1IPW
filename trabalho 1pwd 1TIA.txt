@@ -1,0 +1,24 @@
+		ATIVIDADE 1 DE IPW - INTRODUÇÃO AO CSS
+
+Trabalho de IPW – HTML/CSS - Data 01/07/2016
+1)	Elaborar 2  páginas em html com a seguinte estrutura:
+
+a)	index.html – Topo –  conteúdo – Rodapé. Utilizar logo, incluir banner, abaixo do topo, inserir breve conteúdo abaixo do banner em 2 boxes
+b)	contato.html – Topo – conteúdo e rodapé.
+Inserir formulário de contato com os seguintes campos.
+Nome, email, telefone, mensagem, Estado. 
+O usuário deverá escolher para qual setor deseja atendimento, comercial ou suporte.
+
+2) Formatação
+* Incluir arquivo externo css
+* Utilizar o mesmo arquivo para formatar as 2 páginas
+* Criar um diretório chamado css
+* Criar um diretório chamado imagens
+* Não incluir formatação direta (html ou css inline), nas páginas
+* Incluir imagens
+* Não utilizar tabelas
+* Não utilizar frames/frameset
+
+3) Opcional
+* Layout do contato pode ser em 2 ou 3 colunas
+
