@@ -1,4 +1,4 @@
-		ATIVIDADE 1 DE IPW - INTRODUÇÃO AO CSS
+﻿		ATIVIDADE 1 DE IPW - INTRODUÇÃO AO CSS
 
 Trabalho de IPW – HTML/CSS - Data 01/07/2016
 1)	Elaborar 2  páginas em html com a seguinte estrutura:
@@ -21,4 +21,6 @@ O usuário deverá escolher para qual setor deseja atendimento, comercial ou sup
 
 3) Opcional
 * Layout do contato pode ser em 2 ou 3 colunas
+
+NOIXX
 
